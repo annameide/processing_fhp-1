@@ -10,3 +10,10 @@ Sound visualizer which changes color frequently and moves in a circular shape us
 ## parametrics mic
 
 Sound visualizer using parametric functions which is adjusted to go with your voice.
+
+![screenshot-0595](https://user-images.githubusercontent.com/33291729/36283593-4ae1d822-12a5-11e8-8dc3-050332f2163b.png)
+
+## pixel analytics
+
+Using the webcam and pixel analytics to get the colors of five different pixels.I mainly used this sketch to support the work in another class which revolves around color.
+
