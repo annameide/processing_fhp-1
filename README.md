@@ -31,3 +31,16 @@ _Use your mouse to control the font._
 Visual terrain generator which reacts to audio. Vertex-terrain and ellipses react to microphone inputs 
 by using FFt and amplitude analysis.
 
+![screenshot-2919](https://user-images.githubusercontent.com/33291729/36284108-d35037b6-12a6-11e8-9fcc-4887b68b486e.png)
+
+## vertex control
+
+Fully controllable wave generator using vertex.
+
+__controls:__
+
+W, A:      rotate X axis
+S,D:       rotate Y axis
+SPACE,,:   increase/decrease amplitude
+1,2,3,4:   change background color 
+UP, DOWN:  adds/subtracts 100 to amplitude
