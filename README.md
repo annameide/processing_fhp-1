@@ -45,8 +45,12 @@ W, A:      rotate X axis
 
 S,D:       rotate Y axis
 
+Q,E:       increase/descrease height
+
 SPACE,,:   increase/decrease amplitude
 
 1,2,3,4:   change background color 
 
 UP, DOWN:  adds/subtracts 100 to amplitude
+
+
