@@ -17,3 +17,10 @@ Sound visualizer using parametric functions which is adjusted to go with your vo
 
 Using the webcam and pixel analytics to get the colors of five different pixels.I mainly used this sketch to support the work in another class which revolves around color.
 
+![screenshot-6244](https://user-images.githubusercontent.com/33291729/36283765-c0cf497a-12a5-11e8-8efc-745702d44230.png)
+
+## rotate font 
+
+Practice with fonts and for-loops.
+_Use your mouse to control the font._
+
