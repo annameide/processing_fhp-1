@@ -24,3 +24,10 @@ Using the webcam and pixel analytics to get the colors of five different pixels.
 Practice with fonts and for-loops.
 _Use your mouse to control the font._
 
+![screenshot-1786](https://user-images.githubusercontent.com/33291729/36283963-68bbe210-12a6-11e8-8cc8-b9ab3a16fb18.png)
+
+## terrain visuals 2.0
+
+Visual terrain generator which reacts to audio. Vertex-terrain and ellipses react to microphone inputs 
+by using FFt and amplitude analysis.
+
