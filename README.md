@@ -37,10 +37,16 @@ by using FFt and amplitude analysis.
 
 Fully controllable wave generator using vertex.
 
+![screenshot-3665](https://user-images.githubusercontent.com/33291729/36284239-4a5a3c30-12a7-11e8-9cfd-7a0900189d02.png)
+
 __controls:__
 
 W, A:      rotate X axis
+
 S,D:       rotate Y axis
+
 SPACE,,:   increase/decrease amplitude
+
 1,2,3,4:   change background color 
+
 UP, DOWN:  adds/subtracts 100 to amplitude
